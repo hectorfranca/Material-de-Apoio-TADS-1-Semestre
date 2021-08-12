@@ -1,0 +1,36 @@
+.navbar, .dropdown-menu {
+    background-color: gainsboro;
+}
+.option-title {
+    font-weight: bolder;
+    color: rgb(60, 60, 60);
+}
+li a {
+    font-weight: bolder;
+}
+.dropdown-toggle {
+    text-align: end;
+}
+/* MENU EM COLUNAS */
+.mathematics {
+    min-width: 350px;
+}
+.submenu-item {
+    border-left: 1px solid gray;
+}
+@media only screen and (max-width: 992px) {
+    .dropdown-menu {
+        min-width: auto;
+    }
+    .submenu-item {
+        border-left: none;
+    }
+    .home {
+        display: none;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .home-mobile {
+        display: none;
+    }
+}
