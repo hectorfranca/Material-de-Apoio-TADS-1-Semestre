@@ -27,26 +27,28 @@
         <section class="content-container">
             <div class="content-item links">
                 <h5 class="mt-4"><b>Links úteis:</b></h5>
-                <p>Resumo:<br>
+                <p><b>Resumo:</b><br>
                     <a href="https://youtu.be/8guZB85DYF8" target="_blank">https://youtu.be/8guZB85DYF8</a></p>
-                <p>Divisibilidade:<br>
+                <p><b>Divisibilidade:</b><br>
                     <a href="https://www.youtube.com/watch?v=llXLpnOdtMw" target="_blank">https://www.youtube.com/watch?v=llXLpnOdtMw</a></p>
-                <p>Divisão Euclidiana:<br>
+                <p><b>Divisão Euclidiana:</b><br>
                     <a href="https://youtu.be/kyJpP_-_L_k" target="_blank">https://youtu.be/kyJpP_-_L_k</a></p>
-                <p>Crivo de Eratóstenes:<br>
+                <p><b>Crivo de Eratóstenes:</b><br>
                     <a href="https://www.youtube.com/watch?v=aOiJvoNX3y0" target="_blank">https://www.youtube.com/watch?v=aOiJvoNX3y0</a></p>
-                <p>Decomposição de números em fatores primos:<br>
+                <p><b>Decomposição de números em fatores primos:</b><br>
                     <a href="https://www.youtube.com/watch?v=asXpgcHu6DQ" target="_blank">https://www.youtube.com/watch?v=asXpgcHu6DQ</a></p>
-                <p>Número de divisores:<br>
-                    1-<br>
-                    <a href="https://www.youtube.com/watch?v=S8S7ppGNk48" target="_blank">https://www.youtube.com/watch?v=S8S7ppGNk48</a><br>
-                    2-<br>
-                    <a href="https://youtu.be/_GmG-b3fpb0?t=559" target="_blank">https://youtu.be/_GmG-b3fpb0?t=559</a></p>
-                <p>Identificar números primos:<br>
-                    1-<br>
-                    <a href="https://www.youtube.com/watch?v=rdWotutaSSE" target="_blank">https://www.youtube.com/watch?v=rdWotutaSSE</a><br>
-                    2-<br>
-                    <a href="https://www.youtube.com/watch?v=K5cEbR_UDMk" target="_blank">https://www.youtube.com/watch?v=K5cEbR_UDMk</a></p>
+                <p><b>Número de divisores:</b><br>
+                    <p>1-<br>
+                        <a href="https://www.youtube.com/watch?v=S8S7ppGNk48" target="_blank">https://www.youtube.com/watch?v=S8S7ppGNk48</a></p>
+                    <p>2-<br>
+                        <a href="https://youtu.be/_GmG-b3fpb0?t=559" target="_blank">https://youtu.be/_GmG-b3fpb0?t=559</a></p>
+                </p>
+                <p><b>Identificar números primos:</b><br>
+                    <p>1-<br>
+                        <a href="https://www.youtube.com/watch?v=rdWotutaSSE" target="_blank">https://www.youtube.com/watch?v=rdWotutaSSE</a></p>
+                    <p>2-<br>
+                        <a href="https://www.youtube.com/watch?v=K5cEbR_UDMk" target="_blank">https://www.youtube.com/watch?v=K5cEbR_UDMk</a></p>
+                </p>
             </div>
         </section>
     </main>

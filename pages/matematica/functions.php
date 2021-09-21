@@ -27,15 +27,17 @@
         <section class="content-container">
             <div class="content-item links">
                 <h5 class="mt-4"><b>Links úteis:</b></h5>
-                <p>1-<br>
-                    <a href="https://youtu.be/ENptMNeiDTQ?t=800" target="_blank">https://youtu.be/ENptMNeiDTQ?t=800</a></p>
-                <p>2-<br>
-                    <a href="https://www.youtube.com/watch?v=wvOr_gVa6GA&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx&index=16" target="_blank">https://www.youtube.com/watch?v=wvOr_gVa6GA&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx&index=16</a></p>
-                <p>3-<br>
-                    <a href="https://www.youtube.com/watch?v=OUybGR-Z1OI&t=243s" target="_blank">https://www.youtube.com/watch?v=OUybGR-Z1OI&t=243s</a></p>
-                <p>Função Composta:<br>
+                <p><b>Resumo:</b>
+                    <p>1-<br>
+                        <a href="https://youtu.be/ENptMNeiDTQ?t=800" target="_blank">https://youtu.be/ENptMNeiDTQ?t=800</a></p>
+                    <p>2-<br>
+                        <a href="https://www.youtube.com/watch?v=wvOr_gVa6GA&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx&index=16" target="_blank">https://www.youtube.com/watch?v=wvOr_gVa6GA&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx&index=16</a></p>
+                </p>
+                <p><b>Função Sobrejetora, Injetora e Bijetora:</b><br>
+                    <a href="https://youtu.be/OUybGR-Z1OI" target="_blank">https://youtu.be/OUybGR-Z1OI</a></p>
+                <p><b>Função Composta:</b><br>
                     <a href="https://www.youtube.com/watch?v=EBRXQpXbXio" target="_blank">https://www.youtube.com/watch?v=EBRXQpXbXio</a></p>
-                <p>Função Inversa:<br>
+                <p><b>Função Inversa:</b><br>
                     <a href="https://www.youtube.com/watch?v=D4jnxW3iypQ" target="_blank">https://www.youtube.com/watch?v=D4jnxW3iypQ</a></p>
             </div>
         </section>

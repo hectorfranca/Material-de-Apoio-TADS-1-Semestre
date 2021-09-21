@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="../../style/default/footer.css">
     <link rel="stylesheet" href="../../style/default/content_container.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <title>Material de apoio TADS - Somatório</title>
+    <title>Material de apoio TADS - Lógica Matemática</title>
 </head>
 <body>
     <?php
@@ -27,17 +27,21 @@
         <section class="content-container">
             <div class="content-item links">
                 <h5 class="mt-4"><b>Links úteis:</b></h5>
-                <p><b>Indução Matemática:</b><br>
-                    <p>1-<br>
-                        <a href="https://www.youtube.com/watch?v=QhoTDQZsfcU" target="_blank">https://www.youtube.com/watch?v=QhoTDQZsfcU</a></p>
-                    <p>2-<br>
-                        <a href="https://www.youtube.com/watch?v=bhfhmre-QxU" target="_blank">https://www.youtube.com/watch?v=bhfhmre-QxU</a></p>
+                <p><b>Proposição:</b><br>
+                    <a href="https://www.youtube.com/watch?v=PltqUuwR9ec" target="_blank">https://www.youtube.com/watch?v=PltqUuwR9ec</a></p>
+                <p><b>Conectivos Lógicos:</b><br>
+                    <a href="https://www.youtube.com/watch?v=i8jbzEWEOYk" target="_blank">https://www.youtube.com/watch?v=i8jbzEWEOYk</a></p>
+                <p><b>Tabela Verdade:</b>
+                    <p>Montar a Tabela:<br>
+                        <a href="https://www.youtube.com/watch?v=AHo1VSLRHyY" target="_blank">https://www.youtube.com/watch?v=AHo1VSLRHyY</a></p>
+                    <p>Preencher a tabela:<br>
+                        <a href="https://www.youtube.com/watch?v=EmIGLGUO7cY" target="_blank">https://www.youtube.com/watch?v=EmIGLGUO7cY</a></p>
                 </p>
-                <p><b>Somatório:</b><br>
+                <p><b>Propriedades:</b><br>
                     <p>1-<br>
-                        <a href="https://www.youtube.com/watch?v=Ss3G20mm07I" target="_blank">https://www.youtube.com/watch?v=Ss3G20mm07I</a></p>
+                        <a href="https://www.youtube.com/watch?v=NxVXKiydHvo" target="_blank">https://www.youtube.com/watch?v=NxVXKiydHvo</a></p>
                     <p>2-<br>
-                        <a href="https://www.youtube.com/watch?v=QaMnDsFc8RE" target="_blank">https://www.youtube.com/watch?v=QaMnDsFc8RE</a></p>
+                        <a href="https://www.youtube.com/watch?v=nMd7k_SL8nc" target="_blank">https://www.youtube.com/watch?v=nMd7k_SL8nc</a></p>
                 </p>
             </div>
         </section>

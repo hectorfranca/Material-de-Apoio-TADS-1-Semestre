@@ -26,15 +26,20 @@
     <main>
         <section class="content-container">
             <div class="content-item links">
-                <h5 class="mt-4"><b>Matemática Discreta:</b></h5>
-                <p>Teoria dos Números:<br>
-                    Material:<br>
-                    <a href="https://drive.google.com/file/d/1R1pJpF4y1Y_p-Bp6QfjzwgwNAM18o0JN/view?usp=sharing" target="_blank">Introdução_à_Teoria_dos_Números2021.1.pdf</a></p>
-                <p>Somatório:<br>
-                    Material:<br>
-                    <a href="https://drive.google.com/file/d/1UM-m3NY2U4iOSLsbtha6Uu9HksuNMEz4/view?usp=sharing" target="_blank">Somatórios2021.1.pdf</a><br>
-                    Exercícios e Gabarito:<br>
-                    <a href="https://drive.google.com/file/d/19UiWH9bufPAul-9O5HNNoeKkkM2vhFdx/view?usp=sharing" target="_blank">gabaritoexercícios_de_Somatórios2021.pdf</a></p>
+                <p><h5 class="mt-4"><b>Matemática Discreta:</b></h5>
+                    <p><b>Lógica Matemática:</b><br>
+                        <a href="https://drive.google.com/file/d/1sAjYRyoZOou0VbmVYmlhSwUy_3ZcIWC3/view?usp=sharing" target="_blank">Logica Matemática_Operadores_2021.2.pdf</a></p>
+                        <p>Exercícios e Gabarito:<br>
+                            <a href="https://drive.google.com/file/d/10uwh5R_t3sF1lSoDqD5ZEOGFGYZSG3gK/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Somatórios_2021.pdf</a></p>
+                        <p><b>Teoria dos Números:</b><br>
+                            <a href="https://drive.google.com/file/d/1R1pJpF4y1Y_p-Bp6QfjzwgwNAM18o0JN/view?usp=sharing" target="_blank">Introdução_à_Teoria_dos_Números_2021.1.pdf</a></p>
+                    </p>
+                    <p><b>Somatório:</b><br>
+                        <a href="https://drive.google.com/file/d/1UM-m3NY2U4iOSLsbtha6Uu9HksuNMEz4/view?usp=sharing" target="_blank">Somatórios_2021.1.pdf</a></p>
+                        <p>Exercícios e Gabarito:<br>
+                            <a href="https://drive.google.com/file/d/19UiWH9bufPAul-9O5HNNoeKkkM2vhFdx/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Somatórios_2021.pdf</a></p>
+                    </p>
+                </p>
             </div>
         </section>
     </main>
