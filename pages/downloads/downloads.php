@@ -26,7 +26,7 @@
     <main>
         <section class="content-container">
             <div class="content-item links">
-                <p><h5 class="mt-4"><b>Matemática Discreta:</b></h5>
+                <p><h5 class="mt-4"><b>Matemática Discreta:</b></h5><br>
                     <p><b>Lógica Matemática:</b><br>
                         <a href="https://drive.google.com/file/d/1sAjYRyoZOou0VbmVYmlhSwUy_3ZcIWC3/view?usp=sharing" target="_blank">Logica Matemática_Operadores_2021.2.pdf</a></p>
                         <p>Exercícios e Gabarito:<br>
