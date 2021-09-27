@@ -33,7 +33,7 @@
                     <p>2-<br>
                         <a href="https://www.youtube.com/watch?v=bhfhmre-QxU" target="_blank">https://www.youtube.com/watch?v=bhfhmre-QxU</a></p>
                 </p>
-                <p><b>Somatório:</b><br>
+                <p><b>Somatórios:</b><br>
                     <p>1-<br>
                         <a href="https://www.youtube.com/watch?v=Ss3G20mm07I" target="_blank">https://www.youtube.com/watch?v=Ss3G20mm07I</a></p>
                     <p>2-<br>
