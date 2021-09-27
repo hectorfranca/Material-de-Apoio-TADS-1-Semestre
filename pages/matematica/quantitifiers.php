@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="../../style/default/footer.css">
     <link rel="stylesheet" href="../../style/default/content_container.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <title>Material de apoio TADS - Downloads</title>
+    <title>Material de apoio TADS - Quantificadores Lógicos</title>
 </head>
 <body>
     <?php
@@ -26,23 +26,13 @@
     <main>
         <section class="content-container">
             <div class="content-item links">
-                <p><h5 class="mt-4"><b>Matemática Discreta:</b></h5><br>
-                    <p><b>Lógica Matemática:</b><br>
-                        <a href="https://drive.google.com/file/d/1sAjYRyoZOou0VbmVYmlhSwUy_3ZcIWC3/view?usp=sharing" target="_blank">Logica Matemática_Operadores_2021.2.pdf</a></p>
-                        <p>Exercícios e Gabarito:<br>
-                            <a href="https://drive.google.com/file/d/1R93ovlAFBx7PJPF618SCwTq8g-yHcJT4/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Operadores_2021.pdf</a></p>
-                    <p><b>Quantificadores Lógicos:</b><br>
-                        <a href="https://drive.google.com/file/d/1EdBGma-8H7cIkxojHLEuzsgrgpf3dWoi/view?usp=sharing" target="_blank">Quantificadores_Lógicos_2021.2.pdf</a></p>
-                        <p>Exercícios e Gabarito:<br>
-                            <a href="https://drive.google.com/file/d/10uwh5R_t3sF1lSoDqD5ZEOGFGYZSG3gK/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Quantificadores_2021.1.pdf</a></p>
-                    </p>
-                    <p><b>Teoria dos Números:</b><br>
-                        <a href="https://drive.google.com/file/d/1R1pJpF4y1Y_p-Bp6QfjzwgwNAM18o0JN/view?usp=sharing" target="_blank">Introdução_à_Teoria_dos_Números_2021.1.pdf</a></p>
-                    <p><b>Somatórios:</b><br>
-                        <a href="https://drive.google.com/file/d/1UM-m3NY2U4iOSLsbtha6Uu9HksuNMEz4/view?usp=sharing" target="_blank">Somatórios_2021.1.pdf</a></p>
-                        <p>Exercícios e Gabarito:<br>
-                            <a href="https://drive.google.com/file/d/19UiWH9bufPAul-9O5HNNoeKkkM2vhFdx/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Somatórios_2021.pdf</a></p>
-                    </p>
+                <h5 class="mt-4"><b>Links úteis:</b></h5><br>
+                <p><b>Resumo:</b><br>
+                    <a href="https://www.youtube.com/watch?v=h_TMnWbI9pg" target="_blank">https://www.youtube.com/watch?v=h_TMnWbI9pg</a>
+                    <p>1-<br>
+                        <a href="https://www.youtube.com/watch?v=ytbPhX3cfM0" target="_blank">https://www.youtube.com/watch?v=ytbPhX3cfM0</a></p>
+                    <p>2-<br>
+                        <a href="https://www.youtube.com/watch?v=zr7vjCc6o3Y" target="_blank">https://www.youtube.com/watch?v=zr7vjCc6o3Y</a></p>
                 </p>
             </div>
         </section>

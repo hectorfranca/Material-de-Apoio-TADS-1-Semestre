@@ -11,10 +11,6 @@ li a {
 .dropdown-toggle {
     text-align: end;
 }
-/* MENU EM COLUNAS */
-.mathematics {
-    min-width: 450px;
-}
 .submenu-item {
     border-left: 1px solid gray;
 }
