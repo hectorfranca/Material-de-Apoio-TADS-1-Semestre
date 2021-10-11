@@ -31,6 +31,7 @@
                         <a href="https://drive.google.com/file/d/1sAjYRyoZOou0VbmVYmlhSwUy_3ZcIWC3/view?usp=sharing" target="_blank">Logica Matemática_Operadores_2021.2.pdf</a>
                         <p>Exercícios e Gabarito:<br>
                             <a href="https://drive.google.com/file/d/1R93ovlAFBx7PJPF618SCwTq8g-yHcJT4/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Operadores_2021.pdf</a></p>
+<<<<<<< HEAD
                     </p>
                     <p><b>Quantificadores Lógicos:</b><br>
                         <a href="https://drive.google.com/file/d/1EdBGma-8H7cIkxojHLEuzsgrgpf3dWoi/view?usp=sharing" target="_blank">Quantificadores_Lógicos_2021.2.pdf</a>
@@ -50,6 +51,17 @@
                         <a href="https://drive.google.com/file/d/1R1pJpF4y1Y_p-Bp6QfjzwgwNAM18o0JN/view?usp=sharing" target="_blank">Introdução_à_Teoria_dos_Números_2021.1.pdf</a></p>
                     <p><b>Somatórios:</b><br>
                         <a href="https://drive.google.com/file/d/1UM-m3NY2U4iOSLsbtha6Uu9HksuNMEz4/view?usp=sharing" target="_blank">Somatórios_2021.1.pdf</a>
+=======
+                    <p><b>Quantificadores Lógicos:</b><br>
+                        <a href="https://drive.google.com/file/d/1EdBGma-8H7cIkxojHLEuzsgrgpf3dWoi/view?usp=sharing" target="_blank">Quantificadores_Lógicos_2021.2.pdf</a></p>
+                        <p>Exercícios e Gabarito:<br>
+                            <a href="https://drive.google.com/file/d/10uwh5R_t3sF1lSoDqD5ZEOGFGYZSG3gK/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Quantificadores_2021.1.pdf</a></p>
+                    </p>
+                    <p><b>Teoria dos Números:</b><br>
+                        <a href="https://drive.google.com/file/d/1R1pJpF4y1Y_p-Bp6QfjzwgwNAM18o0JN/view?usp=sharing" target="_blank">Introdução_à_Teoria_dos_Números_2021.1.pdf</a></p>
+                    <p><b>Somatórios:</b><br>
+                        <a href="https://drive.google.com/file/d/1UM-m3NY2U4iOSLsbtha6Uu9HksuNMEz4/view?usp=sharing" target="_blank">Somatórios_2021.1.pdf</a></p>
+>>>>>>> 4b6f79fa081c9847d4244e3f3c56fc86883a8d35
                         <p>Exercícios e Gabarito:<br>
                             <a href="https://drive.google.com/file/d/19UiWH9bufPAul-9O5HNNoeKkkM2vhFdx/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Somatórios_2021.pdf</a></p>
                     </p>
