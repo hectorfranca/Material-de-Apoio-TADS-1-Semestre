@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="../../style/default/footer.css">
     <link rel="stylesheet" href="../../style/default/content_container.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <title>Material de apoio TADS - Somatório</title>
+    <title>Material de apoio TADS - Relações</title>
 </head>
 <body>
     <?php
@@ -27,18 +27,19 @@
         <section class="content-container">
             <div class="content-item links">
                 <h5 class="mt-4"><b>Links úteis:</b></h5><br>
-                <p><b>Indução Matemática:</b><br>
-                    <p>1-<br>
-                        <a href="https://www.youtube.com/watch?v=QhoTDQZsfcU" target="_blank">https://www.youtube.com/watch?v=QhoTDQZsfcU</a></p>
-                    <p>2-<br>
-                        <a href="https://www.youtube.com/watch?v=bhfhmre-QxU" target="_blank">https://www.youtube.com/watch?v=bhfhmre-QxU</a></p>
+                <p><b>Relações Binárias e Produto Cartesiano:</b><br>
+                    <a href="https://youtu.be/Uw24jbXmb7c" target="_blank">https://youtu.be/Uw24jbXmb7c</a></p>
+                <p><b>Relação inversa:</b><br>
+                    <a href="https://www.youtube.com/watch?v=Nhq2qR_0Zw0" target="_blank">https://www.youtube.com/watch?v=Nhq2qR_0Zw0</a></p>
+                <p><b>Propriedades das relações:</b><br>
+                    <a href="https://www.youtube.com/watch?v=1euSYThSFfo" target="_blank">https://www.youtube.com/watch?v=1euSYThSFfo</a>
+                    <p>Propriedade Reflexiva e Irreflexiva na Matriz e Grafo:<br>
+                        <a href="https://youtu.be/lHJF3fTR864?t=733" target="_blank">https://youtu.be/lHJF3fTR864?t=733</a></p>
+                    <p>Propriedade Simétrica e Antissimétrica na Matriz e Grafo:<br>
+                        <a href="https://youtu.be/lHJF3fTR864?t=1900" target="_blank">https://youtu.be/lHJF3fTR864?t=1900</a></p>
                 </p>
-                <p><b>Somatórios:</b><br>
-                    <p>1-<br>
-                        <a href="https://www.youtube.com/watch?v=Ss3G20mm07I" target="_blank">https://www.youtube.com/watch?v=Ss3G20mm07I</a></p>
-                    <p>2-<br>
-                        <a href="https://www.youtube.com/watch?v=QaMnDsFc8RE" target="_blank">https://www.youtube.com/watch?v=QaMnDsFc8RE</a></p>
-                </p>
+                <p><b>Diagrama de Hasse:</b><br>
+                    <a href="https://www.youtube.com/watch?v=BFsPmTmWKtw" target="_blank">https://www.youtube.com/watch?v=BFsPmTmWKtw</a></p>
             </div>
         </section>
     </main>

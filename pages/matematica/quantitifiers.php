@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="../../style/default/footer.css">
     <link rel="stylesheet" href="../../style/default/content_container.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <title>Material de apoio TADS - Somatório</title>
+    <title>Material de apoio TADS - Quantificadores Lógicos</title>
 </head>
 <body>
     <?php
@@ -27,17 +27,12 @@
         <section class="content-container">
             <div class="content-item links">
                 <h5 class="mt-4"><b>Links úteis:</b></h5><br>
-                <p><b>Indução Matemática:</b><br>
+                <p><b>Resumo:</b><br>
+                    <a href="https://www.youtube.com/watch?v=h_TMnWbI9pg" target="_blank">https://www.youtube.com/watch?v=h_TMnWbI9pg</a>
                     <p>1-<br>
-                        <a href="https://www.youtube.com/watch?v=QhoTDQZsfcU" target="_blank">https://www.youtube.com/watch?v=QhoTDQZsfcU</a></p>
+                        <a href="https://www.youtube.com/watch?v=ytbPhX3cfM0" target="_blank">https://www.youtube.com/watch?v=ytbPhX3cfM0</a></p>
                     <p>2-<br>
-                        <a href="https://www.youtube.com/watch?v=bhfhmre-QxU" target="_blank">https://www.youtube.com/watch?v=bhfhmre-QxU</a></p>
-                </p>
-                <p><b>Somatórios:</b><br>
-                    <p>1-<br>
-                        <a href="https://www.youtube.com/watch?v=Ss3G20mm07I" target="_blank">https://www.youtube.com/watch?v=Ss3G20mm07I</a></p>
-                    <p>2-<br>
-                        <a href="https://www.youtube.com/watch?v=QaMnDsFc8RE" target="_blank">https://www.youtube.com/watch?v=QaMnDsFc8RE</a></p>
+                        <a href="https://www.youtube.com/watch?v=zr7vjCc6o3Y" target="_blank">https://www.youtube.com/watch?v=zr7vjCc6o3Y</a></p>
                 </p>
             </div>
         </section>

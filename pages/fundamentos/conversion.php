@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="../../style/default/content_container.css">
     <link rel="stylesheet" href="../../style/fundamentos/conversion/content_conversion.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <title>Material de apoio TADS - Conversão Binário</title>
+    <title>Material de apoio TADS - Conversão de bases</title>
 </head>
 <body>
     <?php

@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="../../style/default/footer.css">
     <link rel="stylesheet" href="../../style/default/content_container.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <title>Material de apoio TADS - Somatório</title>
+    <title>Material de apoio TADS - Conjuntos</title>
 </head>
 <body>
     <?php
@@ -27,18 +27,30 @@
         <section class="content-container">
             <div class="content-item links">
                 <h5 class="mt-4"><b>Links úteis:</b></h5><br>
-                <p><b>Indução Matemática:</b><br>
+                <p><b>Resumo:</b><br>
+                    <a href="https://www.youtube.com/watch?v=ZZmPGJ6IRyU" target="_blank">https://www.youtube.com/watch?v=ZZmPGJ6IRyU</a></p>
+                <p><b>União e intersecção:</b><br>
+                    <a href="https://www.youtube.com/watch?v=tqU-EA7Mdco" target="_blank">https://www.youtube.com/watch?v=tqU-EA7Mdco</a></p>
+                <p><b>Contido e não contido:</b><br>
+                    <a href="https://www.youtube.com/watch?v=r3Hp_J-GnSs" target="_blank">https://www.youtube.com/watch?v=r3Hp_J-GnSs</a></p>
+                <p><b>Diferença de conjuntos:</b><br>
+                    <a href="https://www.youtube.com/watch?v=Empy_kGq6yU" target="_blank">https://www.youtube.com/watch?v=Empy_kGq6yU</a></p>
+                <p><b>Complementar de conjuntos:</b><br>
                     <p>1-<br>
-                        <a href="https://www.youtube.com/watch?v=QhoTDQZsfcU" target="_blank">https://www.youtube.com/watch?v=QhoTDQZsfcU</a></p>
+                        <a href="https://www.youtube.com/watch?v=a_PctgXfpJ0" target="_blank">https://www.youtube.com/watch?v=a_PctgXfpJ0</a></p>
                     <p>2-<br>
-                        <a href="https://www.youtube.com/watch?v=bhfhmre-QxU" target="_blank">https://www.youtube.com/watch?v=bhfhmre-QxU</a></p>
+                        <a href="https://youtu.be/UJrXZjioT-g" target="_blank">https://youtu.be/UJrXZjioT-g</a></p>
+                    <p>3-<br>
+                        <a href="https://youtu.be/ZpGInDNSViw" target="_blank">https://youtu.be/ZpGInDNSViw</a></p>
                 </p>
-                <p><b>Somatórios:</b><br>
-                    <p>1-<br>
-                        <a href="https://www.youtube.com/watch?v=Ss3G20mm07I" target="_blank">https://www.youtube.com/watch?v=Ss3G20mm07I</a></p>
-                    <p>2-<br>
-                        <a href="https://www.youtube.com/watch?v=QaMnDsFc8RE" target="_blank">https://www.youtube.com/watch?v=QaMnDsFc8RE</a></p>
-                </p>
+                <p><b>Demonstração de conjuntos:</b><br>
+                    <a href="https://youtu.be/EynW31aQwN0" target="_blank">https://youtu.be/EynW31aQwN0</a></p>
+                <p><b>Diagrama de Venn:</b><br>
+                    <a href="https://www.youtube.com/watch?v=0fqEHgFVgCg" target="_blank">https://www.youtube.com/watch?v=0fqEHgFVgCg</a></p>
+                <p><b>Revisão:</b><br>
+                    <a href="https://www.youtube.com/watch?v=FgDUiVbYi64" target="_blank">https://www.youtube.com/watch?v=FgDUiVbYi64</a></p>
+                <p><b>Exercícios de Diagrama de Venn:</b><br>
+                    <a href="https://youtu.be/pyTrCjTULfc" target="_blank">https://youtu.be/pyTrCjTULfc</a></p>
             </div>
         </section>
     </main>
