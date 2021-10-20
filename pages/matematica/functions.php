@@ -27,16 +27,27 @@
         <section class="content-container">
             <div class="content-item links">
                 <h5 class="mt-4"><b>Links úteis:</b></h5><br>
-                <p><b>Resumo:</b>
-                    <p>1-<br>
-                        <a href="https://youtu.be/ENptMNeiDTQ?t=800" target="_blank">https://youtu.be/ENptMNeiDTQ?t=800</a></p>
-                    <p>2-<br>
-                        <a href="https://www.youtube.com/watch?v=wvOr_gVa6GA&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx&index=16" target="_blank">https://www.youtube.com/watch?v=wvOr_gVa6GA&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx&index=16</a></p>
+                <p><b>Resumo:</b><br>
+                    <a href="https://www.youtube.com/watch?v=tcocvbD5uqg" target="_blank">https://www.youtube.com/watch?v=tcocvbD5uqg</a></p>
+                <p><b>Domínio, Contradomínio e Imagem da função:</b><br>
+                    <a href="https://www.youtube.com/watch?v=7a8AK6C1Tzo" target="_blank">https://www.youtube.com/watch?v=7a8AK6C1Tzo</a></p>
+                <p><b>Gráfico de função:</b><br>
+                    <a href="https://www.youtube.com/watch?v=AMdjXktG7UI" target="_blank">https://www.youtube.com/watch?v=AMdjXktG7UI</a>
+                    <p>Domínio e Imagem no gráfico:<br>
+                        <a href="https://www.youtube.com/watch?v=OE_sPNsRTbQ" target="_blank">https://www.youtube.com/watch?v=OE_sPNsRTbQ</a></p>
+                    <p>Análise de gráfico:<br>
+                        <a href="https://www.youtube.com/watch?v=h0dHz_L5foQ" target="_blank">https://www.youtube.com/watch?v=h0dHz_L5foQ</a></p>
                 </p>
+                <p><b>Determinar valor da função:</b><br>
+                    <a href="https://www.youtube.com/watch?v=EdrHK9qn7i0" target="_blank">https://www.youtube.com/watch?v=EdrHK9qn7i0</a></p>
                 <p><b>Função Sobrejetora, Injetora e Bijetora:</b><br>
                     <a href="https://youtu.be/OUybGR-Z1OI" target="_blank">https://youtu.be/OUybGR-Z1OI</a></p>
                 <p><b>Função Composta:</b><br>
-                    <a href="https://www.youtube.com/watch?v=EBRXQpXbXio" target="_blank">https://www.youtube.com/watch?v=EBRXQpXbXio</a></p>
+                    <p>1-<br>
+                        <a href="https://www.youtube.com/watch?v=EBRXQpXbXio" target="_blank">https://www.youtube.com/watch?v=EBRXQpXbXio</a></p>
+                    <p>2-<br>
+                        <a href="https://www.youtube.com/watch?v=nzGKw1MZSXg" target="_blank">https://www.youtube.com/watch?v=nzGKw1MZSXg</a></p>
+                </p>
                 <p><b>Função Inversa:</b><br>
                     <a href="https://www.youtube.com/watch?v=D4jnxW3iypQ" target="_blank">https://www.youtube.com/watch?v=D4jnxW3iypQ</a></p>
             </div>
