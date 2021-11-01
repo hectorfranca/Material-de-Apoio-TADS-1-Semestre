@@ -52,7 +52,10 @@
                             <a href="https://drive.google.com/file/d/1RgSAZOgxmPJ-xMGQqzsuq12QBg2rcUK4/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Funções_2021.1.pdf</a></p>
                     </p>
                     <p><b>Teoria dos Números:</b><br>
-                        <a href="https://drive.google.com/file/d/1R1pJpF4y1Y_p-Bp6QfjzwgwNAM18o0JN/view?usp=sharing" target="_blank">Introdução_à_Teoria_dos_Números_2021.1.pdf</a></p>
+                        <a href="https://drive.google.com/file/d/1R1pJpF4y1Y_p-Bp6QfjzwgwNAM18o0JN/view?usp=sharing" target="_blank">Introdução_à_Teoria_dos_Números_2021.1.pdf</a>
+                        <p>Divisibilidade:<br>
+                            <a href="https://drive.google.com/file/d/1am6soQ5mFtsPPeRAn9kpR3_sriBKUo7J/view?usp=sharing" target="_blank">Divisibilidade_2021.2.pdf</a></p>
+                    </p>
                     <p><b>Somatórios:</b><br>
                         <a href="https://drive.google.com/file/d/1UM-m3NY2U4iOSLsbtha6Uu9HksuNMEz4/view?usp=sharing" target="_blank">Somatórios_2021.1.pdf</a>
                         <p>Exercícios e Gabarito:<br>
