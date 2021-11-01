@@ -30,7 +30,17 @@
                 <p><b>Resumo:</b><br>
                     <a href="https://youtu.be/8guZB85DYF8" target="_blank">https://youtu.be/8guZB85DYF8</a></p>
                 <p><b>Divisibilidade:</b><br>
-                    <a href="https://www.youtube.com/watch?v=llXLpnOdtMw" target="_blank">https://www.youtube.com/watch?v=llXLpnOdtMw</a></p>
+                    <p>Resumo:<br>
+                        <a href="https://www.youtube.com/watch?v=llXLpnOdtMw" target="_blank">https://www.youtube.com/watch?v=llXLpnOdtMw</a></p>
+                    <p>Divisibilidade por 7:<br>
+                        <a href="https://www.youtube.com/watch?v=ehmIjQTNPUo" target="_blank">https://www.youtube.com/watch?v=ehmIjQTNPUo</a></p>
+                    <p>Divisibilidade por 11:<br>
+                        <a href="https://www.youtube.com/watch?v=awAmXCFQFxk" target="_blank">https://www.youtube.com/watch?v=awAmXCFQFxk</a></p>
+                    <p>Divisibilidade por 13:<br>
+                        <a href="https://www.youtube.com/watch?v=GbYF2acib7I" target="_blank">https://www.youtube.com/watch?v=GbYF2acib7I</a></p>
+                    <p>Divisibilidade por número primo maior que 11:<br>
+                        <a href="https://www.obaricentrodamente.com/2012/03/criterios-de-divisibilidade-por.html" target="_blank">https://www.obaricentrodamente.com/2012/03/criterios-de-divisibilidade-por.html</a></p>
+                </p>
                 <p><b>Máximo Divisor Comum (MDC):</b><br>
                     <a href="https://www.youtube.com/watch?v=BKaxAFAPuS4" target="_blank">https://www.youtube.com/watch?v=BKaxAFAPuS4</a></p>
                 <p><b>Mínimo Múltiplo Comum (MMC):</b><br>
