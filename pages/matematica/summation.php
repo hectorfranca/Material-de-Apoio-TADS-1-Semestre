@@ -27,16 +27,20 @@
         <section class="content-container">
             <div class="content-item links">
                 <h5 class="mt-4"><b>Links úteis:</b></h5><br>
+                <p><b>Resumo:</b><br>
+                    <p>1-<br>
+                        <a href="https://www.youtube.com/watch?v=tXkgLcaJuhw" target="_blank">https://www.youtube.com/watch?v=tXkgLcaJuhw</a></p>
+                    <p>2-<br>
+                        <a href="https://www.youtube.com/watch?v=Ss3G20mm07I" target="_blank">https://www.youtube.com/watch?v=Ss3G20mm07I</a></p>
+                </p>
+                <p><b>Exemplo de somatórios:</b><br>
+                    <a href="https://www.youtube.com/watch?v=GvxgRci03yQ" target="_blank">https://www.youtube.com/watch?v=GvxgRci03yQ</a></p>
                 <p><b>Indução Matemática:</b><br>
                     <p>1-<br>
                         <a href="https://www.youtube.com/watch?v=QhoTDQZsfcU" target="_blank">https://www.youtube.com/watch?v=QhoTDQZsfcU</a></p>
                     <p>2-<br>
                         <a href="https://www.youtube.com/watch?v=bhfhmre-QxU" target="_blank">https://www.youtube.com/watch?v=bhfhmre-QxU</a></p>
-                </p>
-                <p><b>Somatórios:</b><br>
-                    <p>1-<br>
-                        <a href="https://www.youtube.com/watch?v=Ss3G20mm07I" target="_blank">https://www.youtube.com/watch?v=Ss3G20mm07I</a></p>
-                    <p>2-<br>
+                    <p>Exemplo de exercício:<br>
                         <a href="https://www.youtube.com/watch?v=QaMnDsFc8RE" target="_blank">https://www.youtube.com/watch?v=QaMnDsFc8RE</a></p>
                 </p>
             </div>
