@@ -35,6 +35,8 @@
                 </p>
                 <p><b>Exemplo de somatórios:</b><br>
                     <a href="https://www.youtube.com/watch?v=GvxgRci03yQ" target="_blank">https://www.youtube.com/watch?v=GvxgRci03yQ</a></p>
+                <p><b>Propriedades de somatórios:</b><br>
+                    <a href="https://www.youtube.com/watch?v=zygBC5kY6es" target="_blank">https://www.youtube.com/watch?v=zygBC5kY6es</a></p>
                 <p><b>Indução Matemática:</b><br>
                     <p>1-<br>
                         <a href="https://www.youtube.com/watch?v=QhoTDQZsfcU" target="_blank">https://www.youtube.com/watch?v=QhoTDQZsfcU</a></p>
