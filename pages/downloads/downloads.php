@@ -61,6 +61,11 @@
                         <p>Exercícios e Gabarito:<br>
                             <a href="https://drive.google.com/file/d/19UiWH9bufPAul-9O5HNNoeKkkM2vhFdx/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Somatórios_2021.pdf</a></p>
                     </p>
+                    <p><b>Análise Combinatória:</b><br>
+                        <a href="https://drive.google.com/file/d/1E6hATA9ODImbbZ3hisGQgq1TsAs5XkLs/view?usp=sharing" target="_blank">Análise_Combinatória_2021.2.pdf</a>
+                        <p>Exercícios e Gabarito:<br>
+                            <a href="https://drive.google.com/file/d/1bmVt_UFbCBtOmP9Yl2L9iBqaw9MRpd5m/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Análise_Combinatória_2021.pdf</a></p>
+                    </p>
                 </p>
             </div>
         </section>
