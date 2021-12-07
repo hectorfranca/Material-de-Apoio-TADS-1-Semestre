@@ -66,6 +66,12 @@
                         <p>Exercícios e Gabarito:<br>
                             <a href="https://drive.google.com/file/d/1bmVt_UFbCBtOmP9Yl2L9iBqaw9MRpd5m/view?usp=sharing" target="_blank">Gabarito_Exercícios_de_Análise_Combinatória_2021.pdf</a></p>
                     </p>
+                    <p><b>Fórmulas:</b><br>
+                        <p>Somatório:<br>
+                            <a href="https://drive.google.com/file/d/1MZpbALDNZ3_RSxxlcV3WMX3xUbO5lugp/view?usp=sharing" target="_blank">Fórmulas_de_Somatório.pdf</a></p>
+                        <p>Combinatório:<br>
+                            <a href="https://drive.google.com/file/d/1o8D9fJqWVqj7Iu_0BP62cXbfd8Z68x7Y/view?usp=sharing" target="_blank">Fórmulas_de_Combinatório.pdf</a></p>
+                    </p>
                 </p>
             </div>
         </section>
